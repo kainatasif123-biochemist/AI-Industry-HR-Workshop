@@ -89,6 +89,11 @@ Which method is more efficient and why?
 Watch a short video about AI in HR.
 
 Suggested Video:
+## AI in HR Video
+
+Watch the following video:
+
+https://www.youtube.com/watch?v=aircAruvnKk
 
 Artificial Intelligence in Human Resource Management
 
