@@ -48,6 +48,7 @@ Human Resource Management (HRM) is responsible for:
 ### Recruitment
 
 AI screens resumes automatically.
+![AI Recruitment](images/ai-recruitment.jpg)
 
 ### Training
 
