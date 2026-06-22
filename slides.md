@@ -140,6 +140,23 @@ Questions:
 ---
 
 ## Assessment Quiz
+## Interactive Quiz
+
+[[AI can help in recruitment]]
+( ) False
+(X) True
+
+[[AI reduces hiring time]]
+(X) True
+( ) False
+
+[[AI is only useful for recruitment]]
+( ) True
+(X) False
+
+[[Data privacy is a challenge of AI in HR]]
+(X) True
+( ) False
 
 1. What is Artificial Intelligence?
 
